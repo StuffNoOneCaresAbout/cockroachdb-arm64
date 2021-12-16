@@ -35,4 +35,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/arm64
           push: true
-          tags: 1337kavin/cockroachdb:v21.1.11,1337kavin/cockroachdb:latest
+          tags: 1337kavin/cockroachdb:v21.2.2,1337kavin/cockroachdb:latest
